@@ -1,0 +1,19 @@
+2025/06/02 14:25:52 Successfully Migrate Database!
+2025/06/02 14:25:52 Successully connected to mongoDB
+2025/06/02 14:26:56 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:03:11 Successfully Migrate Database!
+2025/06/02 15:03:11 Successully connected to mongoDB
+2025/06/02 15:03:14 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:13:42 Successfully Migrate Database!
+2025/06/02 15:13:42 Successully connected to mongoDB
+2025/06/02 15:13:53 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:13:58 failed to insert new user: Error 1062 (23000): Duplicate entry 'hauhau' for key 'users.uni_users_username'
+2025/06/02 15:14:00 failed to insert new user: Error 1062 (23000): Duplicate entry 'hauhau' for key 'users.uni_users_username'
+2025/06/02 15:14:05 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:14:45 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:14:47 failed to check password: crypto/bcrypt: hashedPassword is not the hash of the given password
+2025/06/02 15:14:59 failed to get user session on DB:  record not found
+2025/06/02 15:15:02 failed to parse jwt: token has invalid claims: token is expired
+2025/06/02 15:26:43 Successfully Migrate Database!
+2025/06/02 15:26:43 Successully connected to mongoDB
+2025/06/02 15:26:49 failed to insert new user: Error 1062 (23000): Duplicate entry 'hauhau' for key 'users.uni_users_username'
