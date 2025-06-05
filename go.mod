@@ -9,6 +9,9 @@ require (
 	github.com/gofiber/template/html/v2 v2.1.3
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/joho/godotenv v1.5.1
+	go.elastic.co/apm v1.15.0
+	go.elastic.co/apm/module/apmfiber v1.15.0
+	go.mongodb.org/mongo-driver v1.17.3
 	golang.org/x/crypto v0.38.0
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/gorm v1.26.1
@@ -52,12 +55,9 @@ require (
 	github.com/xdg-go/scram v1.1.2 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78 // indirect
-	go.elastic.co/apm v1.15.0 // indirect
 	go.elastic.co/apm/module/apmfasthttp v1.15.0 // indirect
-	go.elastic.co/apm/module/apmfiber v1.15.0 // indirect
 	go.elastic.co/apm/module/apmhttp v1.15.0 // indirect
 	go.elastic.co/fastjson v1.1.0 // indirect
-	go.mongodb.org/mongo-driver v1.17.3 // indirect
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5 // indirect
 	golang.org/x/mod v0.18.0 // indirect
 	golang.org/x/net v0.40.0 // indirect
